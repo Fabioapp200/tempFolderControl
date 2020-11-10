@@ -1,3 +1,4 @@
+#Temp Folder Control by Fábio Pinto
 from os import makedirs
 from shutil import rmtree
 path = "d:\\#TEMP"
